@@ -56,7 +56,7 @@ ol {
 
 .content__list {
   height: 298px;
-  overflow-y: scroll;
+  overflow: auto;
   position: relative;
   padding-right: 15px;
 }
