@@ -187,7 +187,7 @@ button {
 }
 
 .search-form__checkbox:checked + .search-form__pseudo-checkbox::after {
-  position: absolute;
+  display: block;
   content: " ";
   width: 17px;
   height: 17px;
